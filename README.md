@@ -1,7 +1,7 @@
 WELL \
 HELLO THERE!!!\
 👋🏽 My name is @sehmim \
-💼 I currently work at BIMTrack as a Software Developer. \
+💼 I currently work at BIMTrack as a Frontend Developer. \
 🎓 Computer Science, York University 2021\
 🏠 Montreal, QC, Canada
 
