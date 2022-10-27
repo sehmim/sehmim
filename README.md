@@ -1,8 +1,8 @@
-WELL
-HELLO THERE!!!
-👋🏽 My name is @sehmim
-💼 I currently work at BIMTrack as a Software Developer.
-🎓 Computer Science, York University 2021
+WELL \
+HELLO THERE!!!\
+👋🏽 My name is @sehmim \
+💼 I currently work at BIMTrack as a Software Developer. \
+🎓 Computer Science, York University 2021\
 🏠 Montreal, QC, Canada
 
 🕸 https://sehmim.ca 
